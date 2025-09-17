@@ -7,7 +7,7 @@ Powered by the **TMDB API** for real-time movie data.
 
 # Demo
 
-https://imdbcloneapi.netlify.app/
+http://localhost:5173/
 
 ---
 
