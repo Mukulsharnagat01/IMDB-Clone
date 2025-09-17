@@ -93,9 +93,12 @@ IMDB-Clone/
 ## ✨ Features
 
 * 🔍 Search movies by title
-* 📖 View detailed movie information
+* 📖 View detailed information for each movie
 * ⭐ Highlight trending and popular movies
+* ❤️ Add / remove movies from your Watchlist
+* 🎨 Styled with Tailwind CSS
 * 📱 Responsive UI
+* ⚡ Fast build setup with Vite
 * 🎬 Powered by TMDB API
 
 ---
