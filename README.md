@@ -5,6 +5,12 @@ Powered by the **TMDB API** for real-time movie data.
 
 ---
 
+# Demo
+
+https://imdbcloneapi.netlify.app/
+
+---
+
 ## 📸 Project Preview
 
 "
