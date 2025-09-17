@@ -25,22 +25,6 @@ http://localhost:5173/
 * 🛤️ **React Router** – Navigation
 * 🎬 **TMDB API** – Movie database
 
----
-
-## 🔑 API Setup (TMDB)
-
-1. Create a free account on [TMDB](https://www.themoviedb.org/).
-2. Go to **Settings > API** and generate your API key.
-3. Create a `.env` file in the project root:
-
-   ```bash
-   VITE_TMDB_API_KEY=your_api_key_here
-   ```
-4. Use the key in your fetch requests. Example:
-
-   ```js
-   const API_URL = `https://api.themoviedb.org/3/movie/popular?api_key=${import.meta.env.VITE_TMDB_API_KEY}`;
-   ```
 
 ---
 
