@@ -111,13 +111,7 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Mukul Sharnagat**
-🔗 [GitHub Profile](https://github.com/Mukulsharnagat01)
+🔗 https://github.com/
