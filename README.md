@@ -7,9 +7,8 @@ Powered by the **TMDB API** for real-time movie data.
 
 ## 📸 Project Preview
 
-![App Screenshot](./public/preview.png)
-*(Replace with your actual screenshot path)*
-
+"
+            "
 ---
 
 ## 🛠️ Tech Stack
